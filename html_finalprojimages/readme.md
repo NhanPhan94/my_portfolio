@@ -1,0 +1,13 @@
+The project included all the image for website
+![react](https://github.com/NhanPhan94/my_portfolio/assets/101496981/8906e0b8-099b-4101-a036-480f87416a70)
+![phone](https://github.com/NhanPhan94/my_portfolio/assets/101496981/b9822884-18c1-4d02-ac1c-058bd8f61fc5)
+![node](https://github.com/NhanPhan94/my_portfolio/assets/101496981/eb071a5b-b930-4aec-955d-45a3ffad3ea8)
+![js](https://github.com/NhanPhan94/my_portfolio/assets/101496981/6607b261-60e0-4086-b378-0ac04a5e3254)
+![java](https://github.com/NhanPhan94/my_portfolio/assets/101496981/0530e928-495e-4ed0-babc-73150f662616)
+![html5](https://github.com/NhanPhan94/my_portfolio/assets/101496981/d71c7813-02ae-4393-805a-27438e1d48c8)
+![home](https://github.com/NhanPhan94/my_portfolio/assets/101496981/c26da64b-734b-44ff-8c0a-1a29462c32ea)
+![flash](https://github.com/NhanPhan94/my_portfolio/assets/101496981/5446c4f1-819e-443e-995a-9484804338a6)
+![envelope](https://github.com/NhanPhan94/my_portfolio/assets/101496981/95dea463-e269-4958-98da-4497a8d13945)
+![CSS3](https://github.com/NhanPhan94/my_portfolio/assets/101496981/ad8ad851-69a3-4661-9328-bf3d34ea2c57)
+![checkmark--outline](https://github.com/NhanPhan94/my_portfolio/assets/101496981/a99b7b22-8786-4917-977d-91dbb9dd0d8f)
+![bullet](https://github.com/NhanPhan94/my_portfolio/assets/101496981/f1191673-7ef6-417c-9c22-01b1e5b4290d)
